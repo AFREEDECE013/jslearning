@@ -10,7 +10,6 @@ console.log(gameName.toUpperCase())
 console.log(gameName.charAt(2))
 console.log(gameName.indexOf("f"))
 
-
 const newString = gameName.substring(0, 4)
 console.log(newString)
 
