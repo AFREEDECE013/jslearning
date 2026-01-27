@@ -24,8 +24,8 @@ console.log(3+3); console.log("afreed")  // not good for readability
 let age = 24
 let name1 = "Afreed"
 console.log(typeof "Afreed")
-console.log(typeof age)
-console.log(typeof name1);
+console.log(typeof age) // or console.log(typeof(age))
+console.log(typeof name1)
 
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null)
+console.log(typeof undefined)
